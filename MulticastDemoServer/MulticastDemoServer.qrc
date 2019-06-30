@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="QMulticastDemoServer">
+    </qresource>
+</RCC>
